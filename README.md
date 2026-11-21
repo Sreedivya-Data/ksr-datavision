@@ -15,6 +15,7 @@ Let’s connect, learn, and grow together—one repo at a time.
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sreedivyakothakonda/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@LearnisphereOfficial)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=googlechrome&logoColor=white)](https://clarity-data-link.lovable.app/)
 
 ---
 
